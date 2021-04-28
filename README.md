@@ -1,6 +1,6 @@
 # Wireless Project : Find Application
 
-Weeraphat Srisutham 6188022
+Weeraphat Srisutham 6188022\n
 Saharat   Arama     6188121
 
 ## Getting Started
