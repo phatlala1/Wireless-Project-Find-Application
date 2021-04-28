@@ -1,6 +1,7 @@
-# flutter_app3
+# Wireless Project : Find Application
 
-A new Flutter application.
+Weeraphat Srisutham 6188022
+Saharat   Arama     6188121
 
 ## Getting Started
 
