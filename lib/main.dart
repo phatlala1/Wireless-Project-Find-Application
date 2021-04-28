@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter',
+      title: 'Find Application',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Login'),
+      home: MyHomePage(title: 'Find Application login'),
     );
   }
 }
